@@ -5,6 +5,7 @@ Really good video's, really good explanations.
 Starts from blank.
 
 Images from unsplash.
+SVG's from https://en.lricons.com/
 
 1st video: 
 https://www.youtube.com/watch?v=VYsVOamdB0g
